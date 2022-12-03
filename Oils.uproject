@@ -45,11 +45,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ca842c00ec0d4db0b3aad17701e1637b"
 		},
 		{
-			"Name": "SMSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/916643d0c665469594233cb0487e6d3d"
-		},
-		{
 			"Name": "OmegaGameFramework",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2ca6202e55f44cfd82659fbca6591603"
@@ -60,18 +55,8 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f33ff6cf1494c3bbee3b0ae3af30ef5"
 		},
 		{
-			"Name": "UnrealBucket",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/3ce48046720d4a66b4f804b0d135a820"
-		},
-		{
 			"Name": "AbilitySystemGameFeatureActions",
 			"Enabled": true
-		},
-		{
-			"Name": "DataTableFunctionLibraryLite",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/677c8e4b8a094c898a1ebf0d0d40fe56"
 		},
 		{
 			"Name": "Epos",
